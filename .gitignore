@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/home-app/node_modules
+/home-app/.pnp
+/home-app/.pnp.js
+
+# testing
+/home-app/coverage
+
+# production
+/home-app/build
+
+# misc
+/home-app/.DS_Store
+/home-app/.env.local
+/home-app/.env.development.local
+/home-app/.env.test.local
+/home-app/.env.production.local
+
+/home-app/npm-debug.log*
+/home-app/yarn-debug.log*
+/home-app/yarn-error.log*
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/header-app/node_modules
+/header-app/.pnp
+/header-app/.pnp.js
+
+# testing
+/header-app/coverage
+
+# production
+/header-app/build
+
+# misc
+/header-app/.DS_Store
+/header-app/.env.local
+/header-app/.env.development.local
+/header-app/.env.test.local
+/header-app/.env.production.local
+
+/header-app/npm-debug.log*
+/header-app/yarn-debug.log*
+/header-app/yarn-error.log*
+
+
